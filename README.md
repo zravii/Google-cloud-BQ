@@ -2,7 +2,13 @@
 
 ## Overview
 This project leverages Google Cloud Platform (GCP) to analyze international flight data, uncovering trends in global air travel. Using BigQuery, PySpark, and various data processing tools, the study examines airline performance, route efficiency, and passenger flow across borders.
-
+## Technologies Used:
+- **Google Cloud Platform (GCP)**
+- **BigQuery**
+- **PySpark on Dataproc**
+- **Google Looker Studio**
+- **Python & Pandas**
+  
 ## Key Features:
 - **Google Cloud Platform (GCP):** Employed GCP services such as BigQuery for scalable data analysis.
 - **Data Processing:** Utilized PySpark on Dataproc to process extensive flight datasets and derive insights.
@@ -27,13 +33,7 @@ For an in-depth exploration of methodologies, data analysis techniques, and find
 
 [Read the full project paper here](GCP_Paper.pdf)  
 
-## Technologies Used:
-- **Google Cloud Platform (GCP)**
-- **BigQuery**
-- **PySpark on Dataproc**
-- **Google Looker Studio**
-- **Python & Pandas**
-- **Data Visualization Tools (Tableau, Matplotlib, Seaborn)**
+
 
 ## Contributors:
 - **Ravi Sharma**  
