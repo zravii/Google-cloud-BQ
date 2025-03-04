@@ -34,8 +34,8 @@ This project leverages Google Cloud Platform (GCP) to analyze international flig
 This project includes various SQL queries executed on BigQuery, such as:
 - [Busiest Airports](https://github.com/zravii/Google-cloud-BQ/blob/main/Busiest%20Airports.sql)
 - [Busiest Origin-Destination Pairs by Number of Flights](https://github.com/zravii/Google-cloud-BQ/blob/main/Busiest%20Origin-Destination%20Pairs%20by%20number%20of%20flights.sql)
-- [Top Destinations by Number of Passengers](Top_destinations_by_number_of_passengers.sql)
-- [Top 10 Airlines](Top10_airlines.sql)
+- [Top Destinations by Number of Passengers](https://github.com/zravii/Google-cloud-BQ/blob/main/Top%20destinations%20by%20number%20of%20passengers.sql)
+- [Top 10 Airlines](https://github.com/zravii/Google-cloud-BQ/blob/main/Top10_airlines.sql)
 
 For more queries, refer to the repository.
 
